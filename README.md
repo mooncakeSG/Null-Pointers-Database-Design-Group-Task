@@ -21,7 +21,6 @@ Included in the project:
 
 👨‍💻 Team Members
 Group Name: Null Pointers
-We’re a collaborative group of aspiring developers and tech enthusiasts from PLP Academy.
 
 Keawin Koesnel
 
